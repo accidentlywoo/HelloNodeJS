@@ -30,3 +30,27 @@ Node.js를 업그레이드 할 때 V8이 이 기능의 의미를 표준에 더 �
 ### Node.js의 특정 버전에 포함된 V8의 버전을 어떻게 알 수 있나용?
 Node.js에서는 ***process*** 전역 객체를 통해 특정 바이너리에 포함된 모든 의존성과 각 버전의 목록을 쉽게 볼 수 있다. V8 엔진의 경우 터미널에서 다음 명령어를 실행해서 V8 버전을 볼 수 있다.
 ```node -p process.versions.v8```
+
+## 가이드 별 Follow Up!
+### General
+- [시작하기 :: Home](https://nodejs.org/ko/docs/guides/)
+- [디버깅 - 시작하기](https://nodejs.org/ko/docs/guides/debugging-getting-started/)
+- [Node.js 애플리케이션의 간단한 프로파일링](https://nodejs.org/ko/docs/guides/simple-profiling/) 
+    ~ 2020.11 1째주
+- [Diagnostics - Flame Graphs]()
+- [Node.js 웹 앱의 도커라이징]()
+- [Migrating to safe Buffer constructors]()
+
+### Node.js core concepts
+- [블로킹과 논블록킹 살펴보기]()
+- [Node.js 이벤트 루프, 타이머, process.nextTick()]()
+- [Don't Block the Event Loop(or the Worker Pool)]()
+- [Node.js의 Timers]()
+
+### Module related guides
+- [HTTP 트랜잭션 해부]()
+- [여러 파일 시스템에서 작업하기]()
+- [Backpressuring in Streams]()
+- [도메인 모듈 포스트모템]()
+- [How to publish N-API package]()
+- [ABI Stability]()
