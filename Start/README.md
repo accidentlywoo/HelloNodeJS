@@ -1,5 +1,4 @@
 # HelloNodeJS
-## Step 1. 공홈 털기
 - [Start](https://nodejs.org/ko/docs/guides/getting-started-guide/) 
 
 
