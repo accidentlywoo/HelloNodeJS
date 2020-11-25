@@ -1,3 +1,5 @@
+const app = require('../Start/app');
+
 app.get('/newUser', (req, res) => {
     let username = req.query.username || '';
     const password = req.query.password || '';
