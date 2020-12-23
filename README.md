@@ -4,9 +4,9 @@
 
 - [시작하기 :: Home](https://nodejs.org/ko/docs/guides/debugging-getting-started/)
 - [디버깅 - 시작하기](https://github.com/accidentlywoo/HelloNodeJS/tree/main/DebugingStart)
-- [Node.js 애플리케이션의 간단한 프로파일링](https://github.com/accidentlywoo/HelloNodeJS/tree/main/Profiling) 
-- [Diagnostics - Flame Graphs :: 공홈]()
-- [Node.js 웹 앱의 도커라이징 :: 공홈]()
+- [Node.js 애플리케이션의 간단한 프로파일링](https://github.com/accidentlywoo/HelloNodeJS/tree/main/Profiling) : 다시 공부해보기
+- [Diagnostics - Flame Graphs :: 공홈](https://nodejs.org/ko/docs/guides/diagnostics-flamegraph/) : 다시 공부해보기
+- [Node.js 웹 앱의 도커라이징](https://nodejs.org/ko/docs/guides/Dockerizing)
 - [Migrating to safe Buffer constructors :: 공홈]()
 
 ### Node.js core concepts

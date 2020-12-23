@@ -1,7 +1,7 @@
 const readline = require('readline');
 const crypto = require('crypto');
 const cipher_alg = 'aes-128-cbc';
-const key = 'dnddoddhd';
+const key = '747b30a094db0b81';
 const iv = Buffer.from( [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]); // 16length
 const decipher = crypto.createDecipheriv(cipher_alg, key, iv);
 ask()
